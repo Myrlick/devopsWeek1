@@ -1,1 +1,1 @@
-print("Hello devops wwek1"
+print("Hello DEVOPS week1")
